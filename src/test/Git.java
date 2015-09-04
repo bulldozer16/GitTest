@@ -3,6 +3,6 @@ package test;
 public class Git {
 
 	public static void main(String[] args) {
-		System.out.println("New changes made");
+		System.out.println("Hello world!");
 	}
 }
